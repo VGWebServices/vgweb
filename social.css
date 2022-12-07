@@ -1,0 +1,35 @@
+body{
+    background:#1b1b2b;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', Courier, monospace;
+}
+.logo{
+    height: 250px;
+    width: 250px;
+}
+font{
+    color:#c0c0c0
+}
+.btn1{
+    color:rgb(66, 60, 239);
+    background:rgba(0, 0, 0, 0.5);
+    padding:10px 20px;
+    font-size:15px;
+    text-decoration:none;
+    letter-spacing:2px;
+    text-transform:uppercase;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px 2px rgb(66, 60, 239);
+}
+.btn2{
+    color:lime;
+    background:rgba(0, 0, 0, 0.5);
+    padding:10px 20px;
+    font-size:15px;
+    text-decoration:none;
+    letter-spacing:2px;
+    text-transform:uppercase;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px 2px lime;
+}
